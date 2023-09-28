@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251427656577",
+    "project_id": "basit-flutter-exercise-7bc99",
+    "storage_bucket": "basit-flutter-exercise-7bc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251427656577:android:78695b07879f3e2a230e80",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEkXRbLPnM0HPXa9UN9zUDKc4SedllIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
